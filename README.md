@@ -68,7 +68,7 @@ dd if=stage2.bin of=os.img bs=512 seek=1 conv=notrunc
 
 MIT License
 
-Copyright (c) 2026 SimpleTools
+Copyright (c) 2026 20260509 / SimpleTools studio
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
